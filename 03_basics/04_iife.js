@@ -10,3 +10,6 @@
     console.log(`DB CONNECTED TWO ${name}`);
 } )('hitesh')
 
+*******************************************************************
+    HOW CODE IS EXECUTED
+Javascript execution context
