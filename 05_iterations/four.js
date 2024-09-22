@@ -44,3 +44,4 @@ in FOR IN default values are keys
 // for (const key in map) {
 //     console.log(key);
 // }
+nothing will print because maps are not iterable
