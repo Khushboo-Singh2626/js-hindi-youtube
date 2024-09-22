@@ -2,6 +2,8 @@
 //     case value:
         
 //         break;
+agr break nhi likhege to jha pe bhi case mathch hoga uske bad ka sara ka sara code execute hoga
+
 
 //     default:
 //         break;
