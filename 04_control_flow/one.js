@@ -9,7 +9,7 @@ const temperature = 41
 // }
 
 // console.log("Execute");
-// <, >, <=, >=, ==, !=, ===, !==
+// <, >, <=, >=, ==, !=, ===(. It checks whether the operands are equal in both value and type.), !==
 
 // const score = 200
 
