@@ -6,14 +6,34 @@ const myObject = {
 }
 
 for (const key in myObject) {
+    console.log(key) -> js
+                        cpp
+                        rb   
+                        swift
+**********BUT IF************
+     console.log(myObject[key]) => javascript
+                                      C++
+                                       RUBY
+
+                            
     //console.log(`${key} shortcut is for ${myObject[key]}`);
 }
 
 const programming = ["js", "rb", "py", "java", "cpp"]
 
 for (const key in programming) {
+    CONSOLE.LOG(key) => 0
+    1
+    2
+    3
+    4  
     //console.log(programming[key]);
 }
+
+*************************************
+    Major difference between for of and for in is 
+in FOR OF default values are values 
+in FOR IN default values are keys
 
 // const map = new Map()
 // map.set('IN', "India")
