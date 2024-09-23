@@ -1,6 +1,6 @@
 const coding = ["js", "ruby", "java", "python", "cpp"]
 
-// coding.forEach( function (val){
+// coding.forEach( function (val){     qu ki ye callback function hai to isme funaction ka nam nhi aayega
 //     console.log(val);
 // } )
 
