@@ -10,7 +10,7 @@
 
 const myNums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-// const newNums = myNums.filter( (num) => {
+// const newNums = myNums.filter( (num) => { agr curly braces lga diya to scope start ho gya hai to ab return keyword use krna hi pdega
 //     return num > 4
 // } )
 
